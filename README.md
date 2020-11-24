@@ -1,6 +1,8 @@
 # VK-Gaming
 Разработка игрового сервиса на базе платформы VK Mini Apps, сочетающего в себе функции магазина и сетевого сообщества
 
+<img src="https://github.com/Censored-Data/VK-Gaming/blob/main/media/image_1.png?raw=true" width="100%" />
+
 ## Оглавление
 
 0. [Команда](#Команда)
