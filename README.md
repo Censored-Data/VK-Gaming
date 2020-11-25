@@ -15,6 +15,7 @@
     <th>Endpoint path</th>
     <th>Headers</th>
     <th>Description</th>
+    <th>Response</th>
    </tr>
    <tr>
       <td><b> /get_top_games </b></td>
