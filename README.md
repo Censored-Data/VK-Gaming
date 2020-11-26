@@ -22,7 +22,6 @@
     <th>Endpoint path</th>
     <th>Headers</th>
     <th>Description</th>
-    <th>Response</th>
    </tr>
    <tr>
       <td><b> /games/top </b></td>
