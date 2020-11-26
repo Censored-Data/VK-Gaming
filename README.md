@@ -73,8 +73,17 @@ python3 webserver.py
 ### PM2
 <b> PM2 </b> — менеджер процессов для JavaScript-среды Node.js
 
+#### Установка
 ```sh
 npm install pm2 -g
-
 ```
 
+#### Запуск среды React.js
+```sh
+pm2 start --name dashboard npm -- start
+```
+
+#### Запуск среды Node.js
+```sh
+pm2 start --name dashboard npm -- start
+```
