@@ -71,7 +71,7 @@ python3 webserver.py
 ```
 ## Дополнительно
 ### PM2
-<b> PM2 </b> - менеджер процессов для JavaScript-среды Node.js
+<b> PM2 </b> — менеджер процессов для JavaScript-среды Node.js
 
 ```sh
 npm install pm2 -g
