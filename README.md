@@ -49,7 +49,7 @@
   </table>
   
   ## Установка
-  ### Frontend React.js <kbd> <b> Port : 4000 </b> </kbd>
+  ### Frontend React.js   <kbd> Port : 4000 </kbd>
   
 ```sh
 cd frontend
