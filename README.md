@@ -57,14 +57,14 @@ npm install
 npm start
 ```
 
-### Backend Node.js <kbd> Port : 4001</kbd>
+### Backend Node.js   <kbd> Port : 4001</kbd>
 ```sh
 cd backend
 npm install
 npm start
 ```
 
-### Machine Lerning server <kbd> Port : 4002</kbd>
+### Machine Lerning server   <kbd> Port : 4002</kbd>
 ```sh
 cd ml
 python3 webserver.py
