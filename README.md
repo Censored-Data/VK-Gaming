@@ -64,7 +64,7 @@ npm install
 npm start
 ```
 
-### Machine Lerning server   <kbd> Port : 4002</kbd>
+### Machine Lerning   <kbd> Port : 4002</kbd>
 ```sh
 cd ml
 python3 webserver.py
