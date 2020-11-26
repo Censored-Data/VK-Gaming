@@ -34,8 +34,8 @@
    </tr>
       <tr>
       <td><b> /services/connected </b></td>
-      <td> <b> referer* </b> <i> (string) </i> - URL of the user's current location on the page within the service <br/ > <br/ >
-         <b> hash* </b> <i> (string) </i> - Digital signature for user verification and further interaction with him. It is formed through the MD5 hashing algorithm:  <i>md5(vk_ts + vk_user_id) </i> </td>
+      <td> <b> referer* </b> <i> (string) </i> - url текущего местоположения пользователя на странице внутри сервиса <br/ > <br/ >
+         <b> hash* </b> <i> (string) </i> - Цифровая подпись для верификации пользователя и дальнейшего взаимодействия с ним. Формируется через алгоритм хеширования MD5:  <i>md5(vk_ts + vk_user_id) , где vk_ts - текущая unix метка времени, полученная из URL, а vk_user_id - идентификатор пользователя ВКонтакте </i> </td>
       <td> Получает игры, отсортированные по количеству текущих зрителей, сначала самые популярные. </td>
    </tr>
    <tr><td>37</td><td>5,5</td><td>38⅔</td></tr>
