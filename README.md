@@ -49,7 +49,7 @@
   </table>
   
   ## Установка
-  ### Frontend React.js // Port : 4000
+  ### Frontend React.js / Port : 4000
   
 ```sh
 cd frontend
@@ -57,14 +57,14 @@ npm install
 npm start
 ```
 
-### Backend Node.js // Port : 4001
+### Backend Node.js / Port : 4001
 ```sh
 cd backend
 npm install
 npm start
 ```
 
-### Machine Lerning server // Port : 4002
+### Machine Lerning server / Port : 4002
 ```sh
 cd ml
 python3 webserver.py
