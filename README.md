@@ -1,6 +1,5 @@
 [<img width="134" src="https://vk.com/images/apps/mini_apps/vk_mini_apps_logo.svg">](https://vk.com/services)
 # VK-Gaming ![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.io/badge/Python-3.7.5-blue) ![https://img.shields.io/badge/Node%20JS-13.14.0-brightgreen](https://img.shields.io/badge/Node%20JS-13.14.0-brightgreen) ![https://img.shields.io/badge/React%20JS-17.0.1-blueviolet](https://img.shields.io/badge/React%20JS-17.0.1-blueviolet)
-<br />
 
 Разработка игрового рекомендательного сервиса на базе платформы VK Mini Apps, сочетающего в себе функции магазина и сетевого сообщества
 
