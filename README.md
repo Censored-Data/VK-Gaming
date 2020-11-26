@@ -1,5 +1,7 @@
 # VK-Gaming
-![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.io/badge/Python-3.7.5-blue) <br />
+![https://img.shields.io/badge/Python-3.7.5-blue](https://img.shields.io/badge/Python-3.7.5-blue)
+![https://img.shields.io/badge/NodeJS-13.14.0-brightgreen](https://img.shields.io/badge/NodeJS-13.14.0-brightgreen) <br />
+
 Разработка игрового сервиса на базе платформы VK Mini Apps, сочетающего в себе функции магазина и сетевого сообщества
 
 <img src="https://github.com/Censored-Data/VK-Gaming/blob/main/media/image_1.png?raw=true" width="100%" />
