@@ -32,6 +32,11 @@
        <td> <i> null </i></td>
       <td> Эндпоинт возврата пользователя после авторизации. Получение информации о пользователе для дальнейшей работы с ним. </td>
    </tr>
-   <tr><td>36,5</td><td>5</td><td>38</td></tr>
+      <tr>
+      <td><b> /services/connected </b></td>
+      <td> <b> referer* </b> <i> (string) </i> - URL of the user's current location on the page within the service <br/ > <br/ >
+         <b> hash* </b> <i> (string) </i> - Digital signature for user verification and further interaction with him. It is formed through the MD5 hashing algorithm:  <i>md5(vk_ts + vk_user_id) </i> </td>
+      <td> Получает игры, отсортированные по количеству текущих зрителей, сначала самые популярные. </td>
+   </tr>
    <tr><td>37</td><td>5,5</td><td>38⅔</td></tr>
   </table>
