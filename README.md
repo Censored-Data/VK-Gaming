@@ -19,7 +19,7 @@
 
 ## API Документация
 <table>
-   <tr>
+   <tr align="center">
     <th>Endpoint path</th>
     <th>Headers</th>
     <th>Description</th>
