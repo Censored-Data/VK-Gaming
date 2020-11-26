@@ -39,12 +39,12 @@
    </tr>
    <tr>
       <td align="center"><b> /auth/steam </b></td>
-       <td> Отсутствуют </td>
+       <td align="center"> Нет </td>
       <td> Эндпоинт генерации ссылки для авторизации пользователя через Steam OpenID </td>
    </tr>
    <tr>
       <td align="center"><b> /auth/steam/authenticate </b></td>
-       <td> Отсутствуют </td>
+       <td align="center"> Нет </td>
       <td> Эндпоинт возврата пользователя после авторизации. Получение информации о пользователе для дальнейшей работы с ним. </td>
   </table>
   
