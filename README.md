@@ -49,3 +49,24 @@
   </table>
   
   ## Установка
+  ### Installation
+  
+Frontend ReactJS: (Port 4000)
+```sh
+cd frontend
+npm install
+npm start
+```
+
+Backend Node.js: (Port 3001)
+```sh
+cd backend
+npm install
+npm start
+```
+
+Machine Lerning server: (Port 3002)
+```sh
+cd ml
+python3 webserver.py
+```
