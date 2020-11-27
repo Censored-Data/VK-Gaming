@@ -7,7 +7,7 @@
 
 1. [API Документация](#API-Документация)
 2. [Установка](#Установка)
-3. [Галерея](#Галерея)
+3. [Задача кейса](https://lodmedia.hb.bizmrg.com/cases/240535/%D0%92%D0%9A.pdf)
 4. [Установка](#Установка)
 4. [Дополнения](https://github.com/GnuriaN/format-README/blob/master/Дополнения.md)
 
