@@ -43,7 +43,7 @@
    </tr>
    <tr>
       <td align="center"><b> /user/games/steam </b></td>
-      <td align="center"> 
+      <td> 
          <br /> <b> steam_id* </b> <i> (string) </i> - идентификатор пользователя Steam <br/ > <br/ >
       </td>
       <td> Эндпоинт для вывода списка игр авторизированного пользователя через Steam </td>
