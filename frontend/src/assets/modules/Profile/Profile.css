@@ -1,0 +1,89 @@
+.profile__cardblock {
+	display: block;
+	float: left;
+	width: calc(100% - 30px);
+	position: relative;
+	padding: 15px;
+}
+
+#settingsCard {
+	width: calc(100% - 20px) !important;
+	padding: 10px;
+	margin-top: 30px;
+}
+
+.profile__image {
+	display: block;
+	float: left;
+	width: 64px;
+	height: 64px;
+	border-radius: 100%;
+	object-fit: cover;
+	background: var(--header_background);
+}
+
+.profile__sideinfo {
+	display: block;
+	float: left;
+	width: calc(100% - 79px);
+	margin-left: 15px;
+	position: relative;
+	margin-top: 10px;
+}
+
+#settings__item{
+	margin-bottom: 5px;
+}
+
+#servicesList {
+	display: block;
+	float: left;
+	width: calc(100% - 24px);
+	padding-left: 12px;
+	padding-right: 12px;
+	position: relative;
+}
+
+.statsTable{
+	width: calc(100% - 20px);
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+.st_item_block {
+	display: block;
+	float: left;
+	width: 50%;
+	margin-bottom: 20px;
+}
+
+.sti_title {
+	display: block;
+	float: left;
+	width: 100%;
+	font-size: 15px;
+	color: var(--text_secondary);
+}
+
+.sti_value {
+	display: block;
+	float: left;
+	font-size: 15px;
+	margin-top: 3px;
+	width: 100%;
+}
+
+.shareBtn {
+	display: none;
+	float: left;
+	width: 100%;
+	text-align: center;
+	background: #4986cc;
+	border-radius: 8px;
+	color: #fff;
+	text-decoration: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}

@@ -1,0 +1,45 @@
+
+.gameCardsBlock {
+	display: block;
+	float: left;
+	width: 94%;
+	padding-left: 3%;
+	padding-right: 3%;
+	position: relative;
+	margin-top: 3%;
+}
+
+.gameCardMini:nth-child(2n) {
+	margin-right: 0px;
+}
+
+.gameCardMini {
+	display: block;
+	float: left;
+	width: 48%;
+	margin-right: 4%;
+	margin-bottom: 8%;
+}
+
+.gameCardMini__image {
+	display: block;
+	float: left;
+	width: 100%;
+	border-radius: 5px;
+}
+
+.gameCard__Title {
+	display: block;
+	float: left;
+	width: 100%;
+	margin-top: 10px;
+	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.gameCard__subTitle {
+	display: block;
+	float: left;
+	width: 100%;
+}

@@ -1,0 +1,90 @@
+.smart_search_container {
+  display: block;
+  float: left;
+  width: 100%;
+  position: relative;
+  margin-top: 0px;
+}
+
+.ss_image {
+	display: block;
+	float: left;
+	width: 100%;
+	position: relative;
+	z-index: 1;
+	border-radius: 8px 8px 0px 0px;
+}
+
+#ss_card {
+	width: calc(100% - 20px) !important;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 5px;
+	background: var(--content_tint_background);
+	border-radius: 8px
+}
+
+.ss_sub {
+	display: block;
+	float: left;
+	width: calc(100% - 30px);
+	padding: 15px 10px 15px 10px;
+}
+
+.ss_game_content .Avatar__img {
+	border-radius: 8px;
+	object-fit: cover;
+}
+
+.ss_game_content .Avatar__shadow {
+	border-radius: 8px;
+}
+
+.random_search {
+	display: block;
+	float: left;
+	width: 100%;
+	position: relative;
+}
+
+.ss_avatar {
+	display: block;
+	float: left;
+	width: 48px;
+	height: 48px;
+	border-radius: 8px;
+	margin-top: -30px;
+	position: absolute;
+	z-index: 2;
+	border: 5px solid var(--content_tint_background);
+}
+
+#ss_title {
+	display: block !important;
+	float: left !important;
+	width: calc(100% - 70px) !important;
+	margin-left: 70px !important;
+}
+
+#ss_game_card {
+	display: block;
+	float: left;
+	width: calc(100% - 30px);
+	margin-left: 10px;
+	position: relative;
+	margin-right: 10px;
+	padding: 5px !important;
+}
+
+.ss_search {
+	position: relative;
+	margin-top: 10px !important;
+	margin-bottom: 10px !important;
+}
+
+#ss_gamecard_content {
+	display: block;
+	float: left;
+	width: 100%;
+	position: relative;
+}
