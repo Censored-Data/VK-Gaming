@@ -5,11 +5,10 @@
 
 ## Навигация
 
-1. [API Документация](#API-Документация)
-2. [Установка](#Установка)
-3. [Задача кейса](https://lodmedia.hb.bizmrg.com/cases/240535/%D0%92%D0%9A.pdf)
-4. [Установка](#Установка)
-4. [Дополнения](https://github.com/GnuriaN/format-README/blob/master/Дополнения.md)
+1. [Задача кейса](https://lodmedia.hb.bizmrg.com/cases/240535/%D0%92%D0%9A.pdf)
+2. [API Документация](#API-Документация)
+3. [Установка](#Установка)
+3. [Дополнения](#Дополнения)
 
 <img src="https://github.com/Censored-Data/VK-Gaming/blob/main/media/image_1.png?raw=true" width="100%" />
 
