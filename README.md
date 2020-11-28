@@ -74,7 +74,7 @@ npm start
 cd ml
 python3 webserver.py
 ```
-## Дополнительно
+## Дополнения
 ### PM2
 <i><b> PM2 </b> — менеджер процессов для JavaScript-среды Node.js</i>
 
